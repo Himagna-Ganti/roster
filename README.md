@@ -1,8 +1,6 @@
-# Project Mgmt App
+# Roster
 
-Project management app from my [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
-
-## Usage
+Project management app developed with MERN stack using GraphQL API
 
 ### Install
 
